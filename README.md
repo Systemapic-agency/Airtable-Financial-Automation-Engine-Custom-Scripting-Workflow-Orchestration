@@ -1,2 +1,2 @@
-# Airtable-Financial-Automation-Engine-Custom-Scripting-Workflow-Orchestration
+# Airtable-Financial-Automation-Engine-Custom-Scripting-Workflow-Orchestration (Vort1)
 Architected an end-to-end Airtable platform using Scripting Blocks and Automations to manage one-time and recurring revenues/costs. Implemented JavaScript scripts for auto-task generation, team utilization tracking, reusable service templates, capital asset tracking, and real-time key-metric dashboards via API-driven workflows.
